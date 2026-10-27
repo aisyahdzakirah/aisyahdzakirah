@@ -6,7 +6,7 @@
 
 # Aisyah Dzakirah
 
-### Informatics Engineering Student | Software Developer
+### Informatics Engineering | Software Developer
 
 *Building ideas into meaningful digital experiences.*
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-Hi! I'm **Aisyah Dzakirah**, an Informatics Engineering student at Universitas Darussalam Gontor, Indonesia.
+Hi! I'm **Aisyah Dzakirah**, an Informatics Engineering 
 
 I'm passionate about software development, especially web development and building interactive applications. I enjoy creating useful digital experiences, exploring new technologies, and turning ideas into working projects.
 
